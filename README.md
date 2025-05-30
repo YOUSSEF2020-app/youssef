@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi YOUSSEF <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm **Youssef**, a passionate **Web Developer** and **Artificial Intelligence Expert**.  
 I specialize in building modern web applications and integrating smart AI solutions to solve real-world problems.
